@@ -5,3 +5,4 @@ Hello everyone, this is a repository for checking the completeness of student na
 - 19507334007 - Aldiasa Pangestu Aji
 - 19507334019 - Saddam putra kunsina
 - 19507334027 - Abdul Mujiburrohman Luthfi
+- 19507334039 - Pingkan Titi Fatikha
