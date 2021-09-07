@@ -6,4 +6,5 @@ Hello everyone, this is a repository for checking the completeness of student na
 - 19507334019 - Saddam putra kunsina
 - 19507334027 - Abdul Mujiburrohman Luthfi
 - 19507334039 - Pingkan Titi Fatikha
+- 19507334012 - Safitri Yuliana Utama
 - 19507334030 - Prasetyo Adi Nugroho
