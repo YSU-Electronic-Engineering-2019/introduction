@@ -12,3 +12,4 @@ Hello everyone, this is a repository for checking the completeness of student na
 - 19507334039 - Pingkan Titi Fatikha
 - 19507334008 - Lelly Kurniasih
 - 19507334021 - Fiosa Putra
+- 19507334040 - Muhammad Malik Wijaya
